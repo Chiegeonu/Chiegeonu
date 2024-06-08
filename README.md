@@ -1,13 +1,12 @@
-## Hi there 👋
+### Hi there 👋
+## This is Onwe Solomon Chiegeonu
+A the passionate data analyst with expertise in turning raw data into actionable insights I have a strong background in finance as well as marketing, and I enjoy using data to solve complex problems and strategic decisions. You can call me the Harvey Specter of data analysis. 
+Welcome to my data analysis repository! Here, you'll find collection of my data analysis projects, showcasing my skills and expertise and data cleaning, visualization and statistical analysis. Each project includes detailed documentation to help you understand the steps and methodologies used.  
 
-<!--
-**Chiegeonu/Chiegeonu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on becoming the best 
+- 🌱 I’m currently learning Data Analytics. 
+- 👯 I’m looking to collaborate with companies or even companies  to solve their business problems leveraging data. 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
